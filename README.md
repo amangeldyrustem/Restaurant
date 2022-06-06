@@ -1,3 +1,3 @@
 # Restaurant
 Simple restaurant web page
-эмир котакпас эмир котакпас
+Developed site layout using html and css
